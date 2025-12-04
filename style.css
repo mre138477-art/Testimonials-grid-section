@@ -20,17 +20,17 @@
 
 @font-face {
     font-family: barlowBlack;
-    src: url("font/BarlowSemiCondensed-Black.ttf") format("woff2");
+    src: url("BarlowSemiCondensed-Black.ttf") format("woff2");
 }
 
 @font-face {
     font-family: barlowLight;
-    src: url("font/BarlowSemiCondensed-Light.ttf") format("woff2");
+    src: url("BarlowSemiCondensed-Light.ttf") format("woff2");
 }
 
 @font-face {
     font-family: barlowExtraLight;
-    src: url("font/BarlowSemiCondensed-ExtraLight.ttf");
+    src: url("BarlowSemiCondensed-ExtraLight.ttf");
 }
 
 body {
@@ -265,4 +265,5 @@ padding: 0 2rem 0 2rem;
     background-image: none;
 }
         
+
 }
